@@ -5,14 +5,18 @@ Project Overview - Our real estate company has created a machine learning model 
 
 
 Objective
-The senior management of the real estate company also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650K and above. We followed this workflow in Python in order to build the required model:
+Understand which house factors are responsible for a higher property value over $650K and above. 
+
 
 
 Approach
+1. Import the data 
+2. Explore the data using the EDA
 The dataset we used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015. Our first approach consisted of: * Importing the data * Exploring the data (EDA Method) * Data wrangling * Data cleaning * Check for multicolinearity
 
 
-First ideas
+Key findings
+
 
 In-Depth Analysis
 
