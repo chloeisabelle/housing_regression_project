@@ -26,7 +26,7 @@ For a deeper understanding of the dataset a series of questions were answered. F
 
 Tableau
 To see a visualisation of the data for key fields please see the attached: 
-Link to tableau story
+https://public.tableau.com/app/profile/chloe.burman/viz/HousingRegressionCaseStudy/Story1?publish=yes
 
 
 
