@@ -22,6 +22,7 @@ In-Depth Analysis
 
 SQL
 For a deeper understanding of the dataset a series of questions were answered. Follow this link to review: 
+https://github.com/chloeisabelle/housing_regression_project/blob/main/SQL/house_price_regression.sql
 
 
 Tableau
