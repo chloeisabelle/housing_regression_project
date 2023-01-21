@@ -7,18 +7,25 @@ Project Overview - Our real estate company has created a machine learning model 
 Objective
 Understand which house factors are responsible for a higher property value over $650K and above. 
 
+What are we looking at:
+The dataset used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015. 
+
 
 
 Approach
 1. Import the data 
-2. Explore the data using the EDA
-The dataset we used consists of information on 22,000 properties and contains historic data of houses sold between May 2014 to May 2015. Our first approach consisted of: * Importing the data * Exploring the data (EDA Method) * Data wrangling * Data cleaning * Check for multicolinearity
+2. Explore the data using EDA
+3. Clean the data and check for multicolinearity 
+4. Train the model - 3 attempts were done to get the best results
+5. Visualise the data using SQL & Tableau
 
 
 Key findings
+98039 is significantly the most expensive  Zip Code, followed by 98004
+3 bedroom houses are most popular, followed by 4 bedroom
+Prices highly correlated to house grade and amount of living area
+Waterfront homes have higher sale prices
 
-
-In-Depth Analysis
 
 SQL
 For a deeper understanding of the dataset a series of questions were answered. Follow this link to review: 
