@@ -20,7 +20,7 @@ Approach
 5. Visualise the data using SQL & Tableau
 
 
-Key findings
+Key findings:
 98039 is significantly the most expensive  Zip Code, followed by 98004
 3 bedroom houses are most popular, followed by 4 bedroom
 Prices highly correlated to house grade and amount of living area
